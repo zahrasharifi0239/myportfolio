@@ -102,6 +102,9 @@ const skillData = [
       {
         imgPath: "/about/wordpress.svg",
       },
+      {
+        imgPath: "/about/photoshop.svg",
+      },
     ],
   },
 ];

@@ -23,42 +23,42 @@ const reviewsData = [
   {
     avatar: "/reviews/avatar-1.png",
     name: "Richard",
-    job: "Chef",
+    job: "Web Developer",
     review:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad, dignissimos.",
   },
   {
     avatar: "/reviews/avatar-2.png",
     name: "Richard",
-    job: "Chef",
+    job: "Web Developer",
     review:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad, dignissimos.",
   },
   {
     avatar: "/reviews/avatar-3.png",
     name: "Richard",
-    job: "Chef",
+    job: "Web Developer",
     review:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad, dignissimos.",
   },
   {
     avatar: "/reviews/avatar-4.png",
     name: "Richard",
-    job: "Chef",
+    job: "Web Developer",
     review:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad, dignissimos.",
   },
   {
     avatar: "/reviews/avatar-5.png",
     name: "Richard",
-    job: "Chef",
+    job: "Web Developer",
     review:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad, dignissimos.",
   },
   {
     avatar: "/reviews/avatar-6.png",
     name: "Richard",
-    job: "Chef",
+    job: "Web Developer",
     review:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad, dignissimos.",
   },

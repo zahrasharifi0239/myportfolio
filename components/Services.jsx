@@ -50,9 +50,9 @@ const Services = () => {
                 </CardHeader>
                 <CardContent className="text-center">
                   <CardTitle className="mb-4">{item.title}</CardTitle>
-                  <CardDescription className="text-lg">
+                  {/* <CardDescription className="text-lg">
                     {item.description}
-                  </CardDescription>
+                  </CardDescription> */}
                 </CardContent>
               </Card>
             );
